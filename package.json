@@ -1,0 +1,12 @@
+{
+  "scripts": {
+  "build": "rm -rf dist && parcel build public/index.html --no-minify --public-url ./"
+  },
+
+  "name": "AJAX-1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:RickyLei7/ajax-1.git",
+  "author": "Ricky <RickyLei7@gmail.com>",
+  "license": "MIT"
+}
